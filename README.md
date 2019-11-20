@@ -1,2 +1,2 @@
 # Javascript Styleguide
-A Styleguide for good quality JavaScript 
+A styleguide installer for good quality JavaScript 
