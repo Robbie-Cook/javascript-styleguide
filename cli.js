@@ -60,6 +60,8 @@ const install = async (srcDir, targetDir) => {
  */
 if (process.argv && Array.isArray(process.argv) && process.argv.length > 1) {
   if (process.argv[2] === 'install') {
+
+    console.log('Arguments', process.argv);
     console.log('Installing styleguide...');
 
     const srcDir = path.join(getTargetDir(process.argv[1]), '.');

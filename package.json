@@ -1,0 +1,22 @@
+{
+  "name": "javascript-styleguide",
+  "version": "1.0.0",
+  "description": "A styleguide for Javascript",
+  "main": "cli.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "bin": {
+    "styleguide": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robbie-Cook/javascript-styleguide.git"
+  },
+  "author": "Robbie Cook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robbie-Cook/javascript-styleguide/issues"
+  },
+  "homepage": "https://github.com/Robbie-Cook/javascript-styleguide#readme"
+}
