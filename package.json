@@ -1,5 +1,5 @@
 {
-  "name": "javascript-styleguide",
+  "name": "@robbie-cook/javascript-styleguide",
   "version": "1.0.0",
   "description": "A styleguide for Javascript",
   "main": "cli.js",
