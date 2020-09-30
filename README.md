@@ -1,3 +1,5 @@
+# Deprecated!
+
 # React Styleguide
 A styleguide installer for eslint and Prettier, to provide formatting and linting of code.
 
